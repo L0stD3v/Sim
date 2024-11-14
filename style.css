@@ -1,0 +1,19 @@
+body{
+    font-family: times new roman, times, serif;
+    background-image : url(../RAT/imgs/AI.jpg);
+    background-size:cover;
+    margin-left:100 px;
+    margin-top:125 px;
+    }
+    .menu{
+    border: solid;
+    border-radius: 4px;
+    color: indigo;
+    }
+    .menu li{
+    width:220px;
+    float:left;
+    }
+    .menu li:hover{
+    background-color: indigo;
+    }
